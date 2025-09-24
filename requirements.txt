@@ -1,0 +1,7 @@
+pip install jupysql
+pip install duckdb-engine
+pip install pandas
+pip install numpy
+pip install duckdb
+pip install requests
+pip install bs4
