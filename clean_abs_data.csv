@@ -1,0 +1,89 @@
+state_code,state_name,year,population,population_density,state
+8,Australian Capital Territory,2016,435730.0,184.8,ACT
+8ACTE,Australian Capital Territory,2016,435730.0,184.8,ACT
+801,Australian Capital Territory,2016,435730.0,184.8,ACT
+8,Australian Capital Territory,2018,435730.0,184.8,ACT
+8ACTE,Australian Capital Territory,2018,435730.0,184.8,ACT
+801,Australian Capital Territory,2018,435730.0,184.8,ACT
+8,Australian Capital Territory,2019,435730.0,184.8,ACT
+8ACTE,Australian Capital Territory,2019,435730.0,184.8,ACT
+801,Australian Capital Territory,2019,435730.0,184.8,ACT
+8,Australian Capital Territory,2020,444903.0,188.7,ACT
+8ACTE,Australian Capital Territory,2020,444903.0,188.7,ACT
+801,Australian Capital Territory,2020,444903.0,188.7,ACT
+8,Australian Capital Territory,2021,452508.0,191.9,ACT
+8ACTE,Australian Capital Territory,2021,452508.0,191.9,ACT
+801,Australian Capital Territory,2021,452508.0,191.9,ACT
+8,Australian Capital Territory,2022,456915.0,193.8,ACT
+8ACTE,Australian Capital Territory,2022,456915.0,193.8,ACT
+801,Australian Capital Territory,2022,456915.0,193.8,ACT
+8,Australian Capital Territory,2023,466359.0,197.8,ACT
+8ACTE,Australian Capital Territory,2023,466359.0,197.8,ACT
+801,Australian Capital Territory,2023,466359.0,197.8,ACT
+8,Australian Capital Territory,2024,473855.0,200.9,ACT
+8ACTE,Australian Capital Territory,2024,473855.0,200.9,ACT
+801,Australian Capital Territory,2024,473855.0,200.9,ACT
+AUS,Australia,2016,25334826.0,3.3,AUS
+AUS,Australia,2018,25334826.0,3.3,AUS
+AUS,Australia,2019,25334826.0,3.3,AUS
+AUS,Australia,2020,25649248.0,3.3,AUS
+AUS,Australia,2021,25685412.0,3.3,AUS
+AUS,Australia,2022,26014399.0,3.4,AUS
+AUS,Australia,2023,26652777.0,3.5,AUS
+AUS,Australia,2024,27194369.0,3.5,AUS
+1,New South Wales,2016,8046748.0,10.0,NSW
+1,New South Wales,2018,8046748.0,10.0,NSW
+1,New South Wales,2019,8046748.0,10.0,NSW
+1,New South Wales,2020,8110610.0,10.1,NSW
+1,New South Wales,2021,8097062.0,10.1,NSW
+1,New South Wales,2022,8166704.0,10.2,NSW
+1,New South Wales,2023,8341199.0,10.4,NSW
+1,New South Wales,2024,8479314.0,10.6,NSW
+7,Northern Territory,2016,246559.0,0.2,NT
+7,Northern Territory,2018,246559.0,0.2,NT
+7,Northern Territory,2019,246559.0,0.2,NT
+7,Northern Territory,2020,247428.0,0.2,NT
+7,Northern Territory,2021,248151.0,0.2,NT
+7,Northern Territory,2022,250228.0,0.2,NT
+7,Northern Territory,2023,253062.0,0.2,NT
+7,Northern Territory,2024,255069.0,0.2,NT
+3,Queensland,2016,5088847.0,2.9,QLD
+3,Queensland,2018,5088847.0,2.9,QLD
+3,Queensland,2019,5088847.0,2.9,QLD
+3,Queensland,2020,5165613.0,3.0,QLD
+3,Queensland,2021,5215814.0,3.0,QLD
+3,Queensland,2022,5320941.0,3.1,QLD
+3,Queensland,2023,5460477.0,3.2,QLD
+3,Queensland,2024,5583833.0,3.2,QLD
+4,South Australia,2016,1767395.0,1.8,SA
+4,South Australia,2018,1767395.0,1.8,SA
+4,South Australia,2019,1767395.0,1.8,SA
+4,South Australia,2020,1790355.0,1.8,SA
+4,South Australia,2021,1802601.0,1.8,SA
+4,South Australia,2022,1821215.0,1.9,SA
+4,South Australia,2023,1852972.0,1.9,SA
+4,South Australia,2024,1878011.0,1.9,SA
+6,Tasmania,2016,547841.0,8.1,TAS
+6,Tasmania,2018,547841.0,8.1,TAS
+6,Tasmania,2019,547841.0,8.1,TAS
+6,Tasmania,2020,557578.0,8.2,TAS
+6,Tasmania,2021,567239.0,8.3,TAS
+6,Tasmania,2022,571051.0,8.4,TAS
+6,Tasmania,2023,573738.0,8.4,TAS
+6,Tasmania,2024,575496.0,8.5,TAS
+2,Victoria,2016,6537305.0,28.7,VIC
+2,Victoria,2018,6537305.0,28.7,VIC
+2,Victoria,2019,6537305.0,28.7,VIC
+2,Victoria,2020,6615046.0,29.1,VIC
+2,Victoria,2021,6547822.0,28.8,VIC
+2,Victoria,2022,6630631.0,29.1,VIC
+2,Victoria,2023,6816241.0,30.0,VIC
+2,Victoria,2024,6978719.0,30.7,VIC
+5,Western Australia,2016,2659625.0,1.1,WA
+5,Western Australia,2018,2659625.0,1.1,WA
+5,Western Australia,2019,2659625.0,1.1,WA
+5,Western Australia,2020,2712912.0,1.1,WA
+5,Western Australia,2021,2749365.0,1.1,WA
+5,Western Australia,2022,2791794.0,1.1,WA
+5,Western Australia,2023,2883762.0,1.1,WA
+5,Western Australia,2024,2965078.0,1.2,WA
